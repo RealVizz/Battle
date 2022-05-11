@@ -1,4 +1,4 @@
-# Project 2 - Battle
+# Battle
 
 It is a program that simulates a typical scenario in an RPG fighting game.
 
